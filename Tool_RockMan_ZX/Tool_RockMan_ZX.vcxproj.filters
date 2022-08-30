@@ -1,0 +1,233 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="00. MainFrame">
+      <UniqueIdentifier>{dff40e99-df55-48c4-a8f2-a31cd26f3482}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. ToolView">
+      <UniqueIdentifier>{af2c70fc-939e-42ea-9cf1-a109994b1f1e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. ToolDoc">
+      <UniqueIdentifier>{c358f78c-b3db-4885-8407-755ed90db605}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="99. Default">
+      <UniqueIdentifier>{62cfbb7f-4a06-4057-a19d-931f5307625f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="99. Default\00. DefaultTool">
+      <UniqueIdentifier>{9825d61b-3bf9-4320-8a14-e11dc5f0a0de}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="99. Default\01. DefaultNoUse">
+      <UniqueIdentifier>{9d58829e-7588-4cdb-a2b6-d951988e9fa8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="99. Default\02. DefaultResource">
+      <UniqueIdentifier>{da8b465f-3c18-4261-8c69-487bad7ae0e4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. ToolView\00. UnitForm">
+      <UniqueIdentifier>{11a5a510-f606-4ad1-b950-9087f9086f05}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. ToolView\00. UnitForm\00. UnitTool">
+      <UniqueIdentifier>{a909ab97-e82b-47a6-90e6-579754762996}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. ToolView\01. TileForm">
+      <UniqueIdentifier>{a9b20d34-eb08-447d-a6c2-558f078b312b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="98. Tool_Manager">
+      <UniqueIdentifier>{3941c348-e519-49d9-8e3e-1089b3a00574}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="98. Tool_Manager\00. Singleton">
+      <UniqueIdentifier>{2d4acfc2-3788-4d43-ab48-2f0cef822791}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="98. Tool_Manager\01. GraphicDevice">
+      <UniqueIdentifier>{59e97d38-c789-4747-942c-f5f0ceddac78}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="98. Tool_Manager\02. Texture">
+      <UniqueIdentifier>{d352c303-ca80-4bd1-bf1d-b204c4f9a141}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="98. Tool_Manager\02. Texture\00. TextureBase">
+      <UniqueIdentifier>{9b45354b-6597-410c-82d6-ae2f2314bd06}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="98. Tool_Manager\02. Texture\01. SingleTexture">
+      <UniqueIdentifier>{22cc2f22-d9e4-496a-91e5-bcc365e693d3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="98. Tool_Manager\02. Texture\02. MultiTexture">
+      <UniqueIdentifier>{08e6634d-1e42-4b2b-860d-cb9b6a4438f6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. ToolView\00. UnitForm\01. PathExtraction">
+      <UniqueIdentifier>{d78d220c-d7b6-46a6-a4d9-fe883e65b5aa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03. FileInfo">
+      <UniqueIdentifier>{60fca9a5-c07a-4828-846d-ef07c88c58bc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Object">
+      <UniqueIdentifier>{b803cbad-1ffd-46dc-ae2e-308a2fafaf15}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05. Scene">
+      <UniqueIdentifier>{468853c6-a2d3-426e-8a0a-f8f08ee86a1a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="06. Tile">
+      <UniqueIdentifier>{570b65cd-acba-43bd-9885-527c5d632bab}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="98. Tool_Manager\03. Tile">
+      <UniqueIdentifier>{23f82c77-ba82-498c-9f60-673e3b89bef7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="98. Tool_Manager\04. Scene">
+      <UniqueIdentifier>{c6155702-c238-4fe8-a20e-2f5bdc286898}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="MainFrm.h">
+      <Filter>00. MainFrame</Filter>
+    </ClInclude>
+    <ClInclude Include="Tool_RockMan_ZXView.h">
+      <Filter>01. ToolView</Filter>
+    </ClInclude>
+    <ClInclude Include="Tool_RockMan_ZXDoc.h">
+      <Filter>02. ToolDoc</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>99. Default\00. DefaultTool</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>99. Default\01. DefaultNoUse</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>99. Default\01. DefaultNoUse</Filter>
+    </ClInclude>
+    <ClInclude Include="Tool_RockMan_ZX.h">
+      <Filter>99. Default\01. DefaultNoUse</Filter>
+    </ClInclude>
+    <ClInclude Include="UnitTool.h">
+      <Filter>01. ToolView\00. UnitForm\00. UnitTool</Filter>
+    </ClInclude>
+    <ClInclude Include="Form.h">
+      <Filter>01. ToolView\00. UnitForm</Filter>
+    </ClInclude>
+    <ClInclude Include="TileForm.h">
+      <Filter>01. ToolView\01. TileForm</Filter>
+    </ClInclude>
+    <ClInclude Include="ToolSingleton.h">
+      <Filter>98. Tool_Manager\00. Singleton</Filter>
+    </ClInclude>
+    <ClInclude Include="ToolGraphicDevice.h">
+      <Filter>98. Tool_Manager\01. GraphicDevice</Filter>
+    </ClInclude>
+    <ClInclude Include="ToolTextrue.h">
+      <Filter>98. Tool_Manager\02. Texture\00. TextureBase</Filter>
+    </ClInclude>
+    <ClInclude Include="ToolSingleTexture.h">
+      <Filter>98. Tool_Manager\02. Texture\01. SingleTexture</Filter>
+    </ClInclude>
+    <ClInclude Include="ToolMultiTexture.h">
+      <Filter>98. Tool_Manager\02. Texture\02. MultiTexture</Filter>
+    </ClInclude>
+    <ClInclude Include="ToolTextureMgr.h">
+      <Filter>98. Tool_Manager\02. Texture</Filter>
+    </ClInclude>
+    <ClInclude Include="PathExtraction.h">
+      <Filter>01. ToolView\00. UnitForm\01. PathExtraction</Filter>
+    </ClInclude>
+    <ClInclude Include="FileInfo.h">
+      <Filter>03. FileInfo</Filter>
+    </ClInclude>
+    <ClInclude Include="ToolMgrInclude.h">
+      <Filter>98. Tool_Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="ToolObject.h">
+      <Filter>04. Object</Filter>
+    </ClInclude>
+    <ClInclude Include="ToolScene.h">
+      <Filter>05. Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="ToolTile.h">
+      <Filter>06. Tile</Filter>
+    </ClInclude>
+    <ClInclude Include="ToolTileMgr.h">
+      <Filter>98. Tool_Manager\03. Tile</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="MainFrm.cpp">
+      <Filter>00. MainFrame</Filter>
+    </ClCompile>
+    <ClCompile Include="Tool_RockMan_ZXView.cpp">
+      <Filter>01. ToolView</Filter>
+    </ClCompile>
+    <ClCompile Include="Tool_RockMan_ZXDoc.cpp">
+      <Filter>02. ToolDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="Tool_RockMan_ZX.cpp">
+      <Filter>99. Default\00. DefaultTool</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>99. Default\01. DefaultNoUse</Filter>
+    </ClCompile>
+    <ClCompile Include="UnitTool.cpp">
+      <Filter>01. ToolView\00. UnitForm\00. UnitTool</Filter>
+    </ClCompile>
+    <ClCompile Include="Form.cpp">
+      <Filter>01. ToolView\00. UnitForm</Filter>
+    </ClCompile>
+    <ClCompile Include="TileForm.cpp">
+      <Filter>01. ToolView\01. TileForm</Filter>
+    </ClCompile>
+    <ClCompile Include="ToolGraphicDevice.cpp">
+      <Filter>98. Tool_Manager\01. GraphicDevice</Filter>
+    </ClCompile>
+    <ClCompile Include="ToolTextrue.cpp">
+      <Filter>98. Tool_Manager\02. Texture\00. TextureBase</Filter>
+    </ClCompile>
+    <ClCompile Include="ToolSingleTexture.cpp">
+      <Filter>98. Tool_Manager\02. Texture\01. SingleTexture</Filter>
+    </ClCompile>
+    <ClCompile Include="ToolMultiTexture.cpp">
+      <Filter>98. Tool_Manager\02. Texture\02. MultiTexture</Filter>
+    </ClCompile>
+    <ClCompile Include="ToolTextureMgr.cpp">
+      <Filter>98. Tool_Manager\02. Texture</Filter>
+    </ClCompile>
+    <ClCompile Include="PathExtraction.cpp">
+      <Filter>01. ToolView\00. UnitForm\01. PathExtraction</Filter>
+    </ClCompile>
+    <ClCompile Include="FileInfo.cpp">
+      <Filter>03. FileInfo</Filter>
+    </ClCompile>
+    <ClCompile Include="ToolObject.cpp">
+      <Filter>04. Object</Filter>
+    </ClCompile>
+    <ClCompile Include="ToolScene.cpp">
+      <Filter>05. Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="ToolTile.cpp">
+      <Filter>06. Tile</Filter>
+    </ClCompile>
+    <ClCompile Include="ToolTileMgr.cpp">
+      <Filter>98. Tool_Manager\03. Tile</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\Tool_RockMan_ZX.ico">
+      <Filter>99. Default\02. DefaultResource</Filter>
+    </Image>
+    <Image Include="res\Tool_RockMan_ZXDoc.ico">
+      <Filter>99. Default\02. DefaultResource</Filter>
+    </Image>
+    <Image Include="res\Toolbar.bmp">
+      <Filter>99. Default\02. DefaultResource</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Tool_RockMan_ZX.rc">
+      <Filter>99. Default\02. DefaultResource</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\Tool_RockMan_ZX.rc2">
+      <Filter>99. Default\02. DefaultResource</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt">
+      <Filter>99. Default\01. DefaultNoUse</Filter>
+    </Text>
+  </ItemGroup>
+</Project>

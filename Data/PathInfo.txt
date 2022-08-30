@@ -1,0 +1,214 @@
+..\Texture\Boss\CopyX\ChargeDiag\ChargeDiag_%d.png|CopyX|ChargeDiag|4
+..\Texture\Boss\CopyX\ChargeShot\ChargeShot_%d.png|CopyX|ChargeShot|4
+..\Texture\Boss\CopyX\Dead\Dead_%d.png|CopyX|Dead|6
+..\Texture\Boss\CopyX\Doom\Doom_%d.png|CopyX|Doom|10
+..\Texture\Boss\CopyX\Elect\Elect_%d.png|CopyX|Elect|4
+..\Texture\Boss\CopyX\Fall\Hover_%d.png|CopyX|Fall|3
+..\Texture\Boss\CopyX\Flame\Flame_%d.png|CopyX|Flame|8
+..\Texture\Boss\CopyX\Hover\Hover_%d.png|CopyX|Hover|3
+..\Texture\Boss\CopyX\Idle\Idle_%d.png|CopyX|Idle|2
+..\Texture\Boss\CopyX\Intro\Intro_%d.png|CopyX|Intro|28
+..\Texture\Boss\CopyX\JumpDash\JumpDash_%d.png|CopyX|JumpDash|16
+..\Texture\Boss\CopyX\JumpShot\JumpShot_%d.png|CopyX|JumpShot|5
+..\Texture\Boss\CopyX\Shot\Shot_%d.png|CopyX|Shot|6
+..\Texture\Boss\CopyX\Sit\Sit_%d.png|CopyX|Sit|3
+..\Texture\Boss\CopyX\Tackle\Tackle_%d.png|CopyX|Tackle|5
+..\Texture\Boss\CopyX\Upper\Upper_%d.png|CopyX|Upper|6
+..\Texture\Boss\Effect\Gong\Gong_%d.png|Effect|Gong|7
+..\Texture\Boss\Effect\Gravity\Gravity_%d.png|Effect|Gravity|28
+..\Texture\Boss\Effect\HivokGuard\Guard_%d.png|Effect|HivokGuard|4
+..\Texture\Boss\Effect\HivokLaser\Laser_%d.png|Effect|HivokLaser|2
+..\Texture\Boss\Effect\Laser\Laser_%d.png|Effect|Laser|5
+..\Texture\Boss\Effect\Wall\Wall_%d.png|Effect|Wall|4
+..\Texture\Boss\Effect\Wave\Wave_%d.png|Effect|Wave|4
+..\Texture\Boss\Effect\XLaser\Laser_%d.png|Effect|XLaser|18
+..\Texture\Boss\Fistleo\Attack\Attack_%d.png|Fistleo|Attack|10
+..\Texture\Boss\Fistleo\DashAttack\DashAttack_%d.png|Fistleo|DashAttack|8
+..\Texture\Boss\Fistleo\FinalAttack\FinalAttack_%d.png|Fistleo|FinalAttack|11
+..\Texture\Boss\Fistleo\Forge\Forge_%d.png|Fistleo|Forge|24
+..\Texture\Boss\Fistleo\Idle\Idle_%d.png|Fistleo|Idle|2
+..\Texture\Boss\Fistleo\Intro\Intro_%d.png|Fistleo|Intro|20
+..\Texture\Boss\Fistleo\JumpAttack\Jump_%d.png|Fistleo|JumpAttack|11
+..\Texture\Boss\Fistleo\WallAttack\WallAttack_%d.png|Fistleo|WallAttack|15
+..\Texture\Boss\Hivok\Dash\Dash_%d.png|Hivok|Dash|8
+..\Texture\Boss\Hivok\Dead\Dead_%d.png|Hivok|Dead|4
+..\Texture\Boss\Hivok\Idle\Idle_%d.png|Hivok|Idle|3
+..\Texture\Boss\Hivok\Intro\Intro_%d.png|Hivok|Intro|12
+..\Texture\Boss\Hivok\LandAttack\Attack_%d.png|Hivok|LandAttack|42
+..\Texture\Boss\Hivok\Summon\Summon_%d.png|Hivok|Summon|16
+..\Texture\Boss\Serpant\BlinkAttack\BlinkAttack_%d.png|Serpant|BlinkAttack|9
+..\Texture\Boss\Serpant\Fire\Fire_%d.png|Serpant|Fire|12
+..\Texture\Boss\Serpant\Idle\Idle_%d.png|Serpant|Idle|2
+..\Texture\Boss\Serpant\Intro\Intro_%d.png|Serpant|Intro|19
+..\Texture\Boss\Serpant\JumpAttack\JA_%d.png|Serpant|JumpAttack|16
+..\Texture\Boss\Serpant\Slide\Slide_%d.png|Serpant|Slide|10
+..\Texture\Boss\Serpant\Uppercut\UC_%d.png|Serpant|Uppercut|15
+..\Texture\Monster\Acrobat\Flying\Flying_%d.png|Acrobat|Flying|10
+..\Texture\Monster\Effect\Bullet\Bullet_%d.png|Effect|Bullet|4
+..\Texture\Monster\Effect\Destroy\Destroy_%d.png|Effect|Destroy|9
+..\Texture\Monster\Helmet\Attack\Attack_%d.png|Helmet|Attack|3
+..\Texture\Monster\Helmet\Idle\Idle_%d.png|Helmet|Idle|2
+..\Texture\Monster\Helmet\Wake\Wake_%d.png|Helmet|Wake|4
+..\Texture\Monster\Roid\Fire\Fire_%d.png|Roid|Fire|3
+..\Texture\Monster\Roid\Idle\Idle_%d.png|Roid|Idle|2
+..\Texture\Monster\Roid\Walk\Walk_%d.png|Roid|Walk|4
+..\Texture\Player\Aile\BeForm\Aile_BeForm_%d.png|Aile|BeForm|11
+..\Texture\Player\Aile\Fall\Aile_Fall_%d.png|Aile|Fall|6
+..\Texture\Player\Aile\FormChange\AILE_FORMCHANGE_%d.png|Aile|FormChange|12
+..\Texture\Player\Aile\FormSelect\AILE_FORMSELECT_%d.png|Aile|FormSelect|9
+..\Texture\Player\Aile\Hit\AILE_HIT_%d.png|Aile|Hit|3
+..\Texture\Player\Aile\Idle\AILE_IDLE_%d.png|Aile|Idle|3
+..\Texture\Player\Aile\Walk\AILE_WALK_%d.png|Aile|Walk|10
+..\Texture\Player\Effect\Charge\Charge_%d.png|Effect|Charge|12
+..\Texture\Player\Effect\Dash\Dash_%d.png|Effect|Dash|5
+..\Texture\Player\Effect\DashDust\DashDsut_%d.png|Effect|DashDust|7
+..\Texture\Player\Effect\FX_Special\FX_Special_%d.png|Effect|FX_Special|21
+..\Texture\Player\Effect\HX_Special\HX_Special_%d.png|Effect|HX_Special|12
+..\Texture\Player\Effect\OX_Special\Special_%d.png|Effect|OX_Special|3
+..\Texture\Player\Effect\PX_Kunai\Kunai_%d.png|Effect|PX_Kunai|2
+..\Texture\Player\Effect\PX_Special\PX_Special_%d.png|Effect|PX_Special|19
+..\Texture\Player\Effect\PX_Suriken\PX_Suriken_%d.png|Effect|PX_Suriken|4
+..\Texture\Player\Interface\FXHP\FX_HP_%d.png|Interface|FXHP|21
+..\Texture\Player\Interface\FXMagic\Magic_%d.png|Interface|FXMagic|21
+..\Texture\Player\Interface\FXMP\MP_%d.png|Interface|FXMP|21
+..\Texture\Player\Interface\HUMANHP\Human_HP_%d.png|Interface|HUMANHP|21
+..\Texture\Player\Interface\HUMANMagic\Magic_%d.png|Interface|HUMANMagic|21
+..\Texture\Player\Interface\HUMANMP\MP_%d.png|Interface|HUMANMP|21
+..\Texture\Player\Interface\HXHP\HX_HP_%d.png|Interface|HXHP|21
+..\Texture\Player\Interface\HXMagic\Magic_%d.png|Interface|HXMagic|21
+..\Texture\Player\Interface\HXMP\MP_%d.png|Interface|HXMP|21
+..\Texture\Player\Interface\Life\Life_%d.png|Interface|Life|21
+..\Texture\Player\Interface\LXHP\LX_HP_%d.png|Interface|LXHP|21
+..\Texture\Player\Interface\LXMagic\Magic_%d.png|Interface|LXMagic|21
+..\Texture\Player\Interface\LXMP\MP_%d.png|Interface|LXMP|21
+..\Texture\Player\Interface\PXHP\PX_HP_%d.png|Interface|PXHP|21
+..\Texture\Player\Interface\PXMagic\Magic_%d.png|Interface|PXMagic|21
+..\Texture\Player\Interface\PXMP\MP_%d.png|Interface|PXMP|21
+..\Texture\Player\Interface\ZXHP\ZX_HP_%d.png|Interface|ZXHP|21
+..\Texture\Player\Interface\ZXMagic\Magic_%d.png|Interface|ZXMagic|21
+..\Texture\Player\Interface\ZXMP\MP_%d.png|Interface|ZXMP|21
+..\Texture\Player\Model FX\BeForm\FX_BeForm_%d.png|Model FX|BeForm|9
+..\Texture\Player\Model FX\Dash\FX_Dash_%d.png|Model FX|Dash|5
+..\Texture\Player\Model FX\Fall\FX_Fall_%d.png|Model FX|Fall|6
+..\Texture\Player\Model FX\FormChange\FX_FormChange_%d.png|Model FX|FormChange|8
+..\Texture\Player\Model FX\FormSelect\FX_FormSelect_%d.png|Model FX|FormSelect|9
+..\Texture\Player\Model FX\Hit\FX_Hit_%d.png|Model FX|Hit|3
+..\Texture\Player\Model FX\Idle\FX_Idle_%d.png|Model FX|Idle|6
+..\Texture\Player\Model FX\Jump\FX_Jump_%d.png|Model FX|Jump|7
+..\Texture\Player\Model FX\JumpAttack\FX_JumpAttack_%d.png|Model FX|JumpAttack|8
+..\Texture\Player\Model FX\SaberFirst\FX_SaberFirst_%d.png|Model FX|SaberFirst|8
+..\Texture\Player\Model FX\SaberSecond\FX_SaberSecond_%d.png|Model FX|SaberSecond|7
+..\Texture\Player\Model FX\SpecialAttack\FX_SpecialAttack_%d.png|Model FX|SpecialAttack|14
+..\Texture\Player\Model FX\Walk\FX_Walk_%d.png|Model FX|Walk|11
+..\Texture\Player\Model FX\WallClimb\FX_WallClimb_%d.png|Model FX|WallClimb|8
+..\Texture\Player\Model FX\WallClimbJump\FX_WallClimbJump_%d.png|Model FX|WallClimbJump|3
+..\Texture\Player\Model HX\AirDash\HX_AirDash_%d.png|Model HX|AirDash|9
+..\Texture\Player\Model HX\AirDashAttack\HX_AirDashAttack_%d.png|Model HX|AirDashAttack|8
+..\Texture\Player\Model HX\BeForm\HX_BeForm_%d.png|Model HX|BeForm|9
+..\Texture\Player\Model HX\Dash\HX_Dash_%d.png|Model HX|Dash|6
+..\Texture\Player\Model HX\DashAttack\HX_DashAttack_%d.png|Model HX|DashAttack|9
+..\Texture\Player\Model HX\Fall\HX_Fall_%d.png|Model HX|Fall|6
+..\Texture\Player\Model HX\FormChange\HX_FormChange_%d.png|Model HX|FormChange|8
+..\Texture\Player\Model HX\FormSelect\HX_FormSelect_%d.png|Model HX|FormSelect|9
+..\Texture\Player\Model HX\Hit\HX_Hit_%d.png|Model HX|Hit|3
+..\Texture\Player\Model HX\Hover\HX_Hover_%d.png|Model HX|Hover|5
+..\Texture\Player\Model HX\Idle\HX_Idle_%d.png|Model HX|Idle|7
+..\Texture\Player\Model HX\Jump\HX_Jump_%d.png|Model HX|Jump|7
+..\Texture\Player\Model HX\JumpAttack\HX_JumpAttack_%d.png|Model HX|JumpAttack|8
+..\Texture\Player\Model HX\SaberFirst\HX_SaberFirst_%d.png|Model HX|SaberFirst|12
+..\Texture\Player\Model HX\SaberSecond\HX_SaberSecond_%d.png|Model HX|SaberSecond|12
+..\Texture\Player\Model HX\SaberThird\HX_SaberThird_%d.png|Model HX|SaberThird|13
+..\Texture\Player\Model HX\SpecialAttack\Special_%d.png|Model HX|SpecialAttack|6
+..\Texture\Player\Model HX\VerticalAirDash\HX_VerticalAirDash_%d.png|Model HX|VerticalAirDash|10
+..\Texture\Player\Model HX\Walk\HX_Walk_%d.png|Model HX|Walk|11
+..\Texture\Player\Model HX\WallClimb\HX_WallClimb_%d.png|Model HX|WallClimb|8
+..\Texture\Player\Model HX\WallClimbJump\HX_WallClimbJump_%d.png|Model HX|WallClimbJump|3
+..\Texture\Player\Model LX\AA\LX_AA_%d.png|Model LX|AA|11
+..\Texture\Player\Model LX\AD\LX_AD_%d.png|Model LX|AD|5
+..\Texture\Player\Model LX\ADD\LX_ADD_%d.png|Model LX|ADD|5
+..\Texture\Player\Model LX\ADRD\LX_ADRD_%d.png|Model LX|ADRD|5
+..\Texture\Player\Model LX\AI\LX_AI_%d.png|Model LX|AI|11
+..\Texture\Player\Model LX\ARVD\LX_ARVD_%d.png|Model LX|ARVD|5
+..\Texture\Player\Model LX\AVD\LX_AVD_%d.png|Model LX|AVD|5
+..\Texture\Player\Model LX\AW\LX_AW_%d.png|Model LX|AW|6
+..\Texture\Player\Model LX\AWD\LX_AWD_%d.png|Model LX|AWD|6
+..\Texture\Player\Model LX\AWRD\LX_AWRD_%d.png|Model LX|AWRD|6
+..\Texture\Player\Model LX\AWRV\LX_AWRV_%d.png|Model LX|AWRV|6
+..\Texture\Player\Model LX\AWV\LX_AWV_%d.png|Model LX|AWV|6
+..\Texture\Player\Model LX\BeForm\LX_BeForm_%d.png|Model LX|BeForm|9
+..\Texture\Player\Model LX\Dash\LX_Dash_%d.png|Model LX|Dash|5
+..\Texture\Player\Model LX\Fall\LX_Fall_%d.png|Model LX|Fall|6
+..\Texture\Player\Model LX\FormChange\LX_FormChange_%d.png|Model LX|FormChange|8
+..\Texture\Player\Model LX\FormSelect\LX_FormSelect_%d.png|Model LX|FormSelect|9
+..\Texture\Player\Model LX\Hit\LX_Hit_%d.png|Model LX|Hit|3
+..\Texture\Player\Model LX\Idle\LX_Idle_%d.png|Model LX|Idle|5
+..\Texture\Player\Model LX\Jump\LX_Jump_%d.png|Model LX|Jump|7
+..\Texture\Player\Model LX\JumpAttack\LX_JumpAttack_%d.png|Model LX|JumpAttack|9
+..\Texture\Player\Model LX\SaberFirst\LX_SaberFirst_%d.png|Model LX|SaberFirst|10
+..\Texture\Player\Model LX\SpecialAttack\LX_Special_%d.png|Model LX|SpecialAttack|11
+..\Texture\Player\Model LX\Walk\LX_Walk_%d.png|Model LX|Walk|11
+..\Texture\Player\Model LX\WallClimb\LX_WallClimb_%d.png|Model LX|WallClimb|8
+..\Texture\Player\Model LX\WallClimbJump\LX_WallClimbJump_%d.png|Model LX|WallClimbJump|3
+..\Texture\Player\Model OX\BeForm\BeForm_%d.png|Model OX|BeForm|16
+..\Texture\Player\Model OX\CA\CA_%d.png|Model OX|CA|12
+..\Texture\Player\Model OX\Dash\Dash_%d.png|Model OX|Dash|9
+..\Texture\Player\Model OX\DashAttack\DashAttack_%d.png|Model OX|DashAttack|11
+..\Texture\Player\Model OX\Fall\Fall_%d.png|Model OX|Fall|6
+..\Texture\Player\Model OX\Hit\Hit_%d.png|Model OX|Hit|3
+..\Texture\Player\Model OX\Idle\Idle_%d.png|Model OX|Idle|9
+..\Texture\Player\Model OX\Jump\Jump_%d.png|Model OX|Jump|7
+..\Texture\Player\Model OX\JumpAttack\JumpAttack_%d.png|Model OX|JumpAttack|7
+..\Texture\Player\Model OX\SaberFirst\SaberFirst_%d.png|Model OX|SaberFirst|8
+..\Texture\Player\Model OX\SaberSecond\SaberSecond_%d.png|Model OX|SaberSecond|7
+..\Texture\Player\Model OX\SaberThird\SaberThird_%d.png|Model OX|SaberThird|13
+..\Texture\Player\Model OX\SpecialAttack\SpecialAttack_%d.png|Model OX|SpecialAttack|10
+..\Texture\Player\Model OX\Walk\Walk_%d.png|Model OX|Walk|11
+..\Texture\Player\Model OX\WallClimb\WallClimb_%d.png|Model OX|WallClimb|8
+..\Texture\Player\Model PX\BeForm\PX_BeForm_%d.png|Model PX|BeForm|11
+..\Texture\Player\Model PX\Dash\PX_Dash_%d.png|Model PX|Dash|8
+..\Texture\Player\Model PX\DashAttack\PX_DashAttack_%d.png|Model PX|DashAttack|6
+..\Texture\Player\Model PX\Fall\PX_Fall_%d.png|Model PX|Fall|6
+..\Texture\Player\Model PX\FormChange\PX_FormChange_%d.png|Model PX|FormChange|9
+..\Texture\Player\Model PX\FormSelect\PX_FormSelect_%d.png|Model PX|FormSelect|9
+..\Texture\Player\Model PX\Hit\PX_Hit_%d.png|Model PX|Hit|3
+..\Texture\Player\Model PX\Idle\PX_Idle_%d.png|Model PX|Idle|9
+..\Texture\Player\Model PX\Jump\PX_Jump_%d.png|Model PX|Jump|7
+..\Texture\Player\Model PX\JumpAttack\PX_JumpAttack_%d.png|Model PX|JumpAttack|6
+..\Texture\Player\Model PX\SaberFirst\PX_SaberFirst_%d.png|Model PX|SaberFirst|7
+..\Texture\Player\Model PX\SpecialAttack\PX_SpecialAttack_%d.png|Model PX|SpecialAttack|9
+..\Texture\Player\Model PX\Walk\PX_Walk_%d.png|Model PX|Walk|11
+..\Texture\Player\Model PX\WallClimb\PX_WallClimb_%d.png|Model PX|WallClimb|8
+..\Texture\Player\Model PX\WallClimbJump\PX_WallClimbJump_%d.png|Model PX|WallClimbJump|3
+..\Texture\Player\Model ZX\BeForm\ZX_FORM_%d.png|Model ZX|BeForm|9
+..\Texture\Player\Model ZX\CA\ZX_CA_%d.png|Model ZX|CA|12
+..\Texture\Player\Model ZX\Dash\ZX_DASH_%d.png|Model ZX|Dash|9
+..\Texture\Player\Model ZX\DashAttack\ZX_DASHATTACK_%d.png|Model ZX|DashAttack|11
+..\Texture\Player\Model ZX\Fall\ZX_FALL_%d.png|Model ZX|Fall|6
+..\Texture\Player\Model ZX\FormChange\ZX_FormChange_%d.png|Model ZX|FormChange|8
+..\Texture\Player\Model ZX\FormSelect\ZX_Form_%d.png|Model ZX|FormSelect|9
+..\Texture\Player\Model ZX\Hit\ZX_Hit_%d.png|Model ZX|Hit|3
+..\Texture\Player\Model ZX\Idle\ZX_IDLE_%d.png|Model ZX|Idle|9
+..\Texture\Player\Model ZX\Jump\ZX_JUMP_%d.png|Model ZX|Jump|7
+..\Texture\Player\Model ZX\JumpAttack\ZX_JUMPSABER_%d.png|Model ZX|JumpAttack|7
+..\Texture\Player\Model ZX\SaberFirst\ZX_SABERFirst_%d.png|Model ZX|SaberFirst|8
+..\Texture\Player\Model ZX\SaberSecond\ZX_SABERSecond_%d.png|Model ZX|SaberSecond|11
+..\Texture\Player\Model ZX\SaberThird\ZX_SABERThird_%d.png|Model ZX|SaberThird|13
+..\Texture\Player\Model ZX\Walk\ZX_WALK_%d.png|Model ZX|Walk|11
+..\Texture\Player\Model ZX\WallClimb\ZX_Climb_%d.png|Model ZX|WallClimb|8
+..\Texture\Player\Model ZX\WallClimbJump\ZX_WallClimbJump_%d.png|Model ZX|WallClimbJump|3
+..\Texture\Player\OXShadow\BeForm\BeForm_%d.png|OXShadow|BeForm|16
+..\Texture\Player\OXShadow\CA\CA_%d.png|OXShadow|CA|12
+..\Texture\Player\OXShadow\Dash\Dash_%d.png|OXShadow|Dash|9
+..\Texture\Player\OXShadow\DashAttack\DashAttack_%d.png|OXShadow|DashAttack|11
+..\Texture\Player\OXShadow\Fall\Fall_%d.png|OXShadow|Fall|6
+..\Texture\Player\OXShadow\Hit\Hit_%d.png|OXShadow|Hit|3
+..\Texture\Player\OXShadow\Idle\Idle_%d.png|OXShadow|Idle|9
+..\Texture\Player\OXShadow\Jump\Jump_%d.png|OXShadow|Jump|7
+..\Texture\Player\OXShadow\JumpAttack\JumpAttack_%d.png|OXShadow|JumpAttack|7
+..\Texture\Player\OXShadow\SaberFirst\SaberFirst_%d.png|OXShadow|SaberFirst|8
+..\Texture\Player\OXShadow\SaberSecond\SaberSecond_%d.png|OXShadow|SaberSecond|7
+..\Texture\Player\OXShadow\SaberThird\SaberThird_%d.png|OXShadow|SaberThird|13
+..\Texture\Player\OXShadow\SpecialAttack\SpecialAttack_%d.png|OXShadow|SpecialAttack|10
+..\Texture\Player\OXShadow\Walk\Walk_%d.png|OXShadow|Walk|11
+..\Texture\Player\OXShadow\WallClimb\WallClimb_%d.png|OXShadow|WallClimb|8
+..\Texture\Tile\TileType\TILE%d.png|Tile|TileType|8

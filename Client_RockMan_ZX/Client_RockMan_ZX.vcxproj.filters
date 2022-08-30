@@ -1,0 +1,681 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="00. MainApplication">
+      <UniqueIdentifier>{46894141-f4aa-4bd5-92b0-7c2bdd7c4700}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="99. Default">
+      <UniqueIdentifier>{09151d89-bd51-4715-8139-1608044ebaab}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="99. Default\00. DefaultApplication">
+      <UniqueIdentifier>{4b78865c-71a1-41ac-805c-b0aaedf8a75b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="99. Default\99. DefaultResource">
+      <UniqueIdentifier>{21c69873-b2e3-4435-ad3c-bc7546a839da}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Object">
+      <UniqueIdentifier>{78081cdb-ead1-432f-a4ef-8201b040bcd4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Object\00. ObjectBase">
+      <UniqueIdentifier>{4a865cc9-1e43-4246-8ca9-318cdd1bd159}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. Scene">
+      <UniqueIdentifier>{a099bcae-3e3d-446a-9043-e4629bf2f9ef}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03. Tile">
+      <UniqueIdentifier>{452fce8f-ccee-4685-9ec8-03b07c88379a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. Scene\00. SceneBase">
+      <UniqueIdentifier>{41cd93f9-7fd0-41de-adf6-401f6652f23f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Object\01. Player">
+      <UniqueIdentifier>{66c997c0-2258-4b75-b421-2cd8b92c41d3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. Scene\01. Loading">
+      <UniqueIdentifier>{b30becf2-18f9-4d58-9c7c-345da6b87678}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="98. Client_Manager">
+      <UniqueIdentifier>{241651f2-eb51-4e6f-8b27-05ba829a6e1b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="98. Client_Manager\00. Singleton">
+      <UniqueIdentifier>{edc15d8f-160f-42f1-b5dc-4060fa82b17e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="98. Client_Manager\01. GraphicDevice">
+      <UniqueIdentifier>{07c94fce-d7b4-4f3e-9492-61a9ba356c4a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="98. Client_Manager\02. Texture">
+      <UniqueIdentifier>{ccdcf6a4-707c-4ffb-b938-99fc1da00fba}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="98. Client_Manager\02. Texture\00. TextureBase">
+      <UniqueIdentifier>{a2e03dea-536e-40dc-8721-0d497fc09d1a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="98. Client_Manager\02. Texture\01. SingleTexture">
+      <UniqueIdentifier>{f77cb91b-fcca-4582-81f7-f31ddc25422e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="98. Client_Manager\02. Texture\02. MultiTexture">
+      <UniqueIdentifier>{f943f52c-d9e2-4084-9c13-63501acb70e0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="98. Client_Manager\05. Scene">
+      <UniqueIdentifier>{50962ee1-2c15-41aa-8ad3-00c119d7ad5c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="98. Client_Manager\06. Sound">
+      <UniqueIdentifier>{1dcee51b-cff9-405f-a32c-00139cde8c7d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="98. Client_Manager\03. FPS">
+      <UniqueIdentifier>{e5697d1d-41c4-406b-95e2-5bb376e6f94f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="98. Client_Manager\03. FPS\00. Time">
+      <UniqueIdentifier>{3ef44c36-10ff-4910-b5ca-783f427d4f6b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="98. Client_Manager\03. FPS\01. Frame">
+      <UniqueIdentifier>{398d79a6-a7c3-4cc3-b7e3-6427c08a4990}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="98. Client_Manager\04. Key">
+      <UniqueIdentifier>{976653d7-e939-4792-96b4-7518ef7301d9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="98. Client_Manager\07. Scroll">
+      <UniqueIdentifier>{60353f53-c894-4b24-a7ec-3cf32e1fceb4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. Scene\99. BossOX">
+      <UniqueIdentifier>{6f9ee6b6-fe23-4480-a135-1caca8744389}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="98. Client_Manager\08. Object">
+      <UniqueIdentifier>{e8111ce9-f5e9-44de-96d7-c468aacdae29}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="98. Client_Manager\10. Tile">
+      <UniqueIdentifier>{9fbd274a-b310-4495-93cb-be20e24a9511}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="98. Client_Manager\09. Collision">
+      <UniqueIdentifier>{0bcaf783-c9a7-4a08-a217-cfd6e74f30a4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. Scene\02. TrainingRoom">
+      <UniqueIdentifier>{6e6ee115-67c3-4a0e-b21a-101572389e92}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="98. Client_Manager\11. Random">
+      <UniqueIdentifier>{bd3afcfc-4a3e-4233-9508-e4bb8f9d6919}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Effect">
+      <UniqueIdentifier>{b7ffdad0-81d0-46a5-8dfd-fd7ee2e00307}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05. UserInterface">
+      <UniqueIdentifier>{0cac6056-4c0b-431f-9ef0-964bea5cba80}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Effect\00. EffectBase">
+      <UniqueIdentifier>{4d2677ac-b507-43fe-b6ab-288e395a29d8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="98. Client_Manager\12. EffectMgr">
+      <UniqueIdentifier>{f8c34ba4-03b4-4de1-9e96-dbe03fa4cfff}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="98. Client_Manager\13. InterfaceMgr">
+      <UniqueIdentifier>{0ee638a1-16fc-499c-8f75-181736f0cec7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05. UserInterface\00. UIBase">
+      <UniqueIdentifier>{43625791-35d8-4b78-87d2-a83ad7fe2d8f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05. UserInterface\01. BioMetal">
+      <UniqueIdentifier>{b208120f-9911-4f15-8561-ef81032e1cca}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05. UserInterface\02. LifeBar">
+      <UniqueIdentifier>{000da13b-da7d-4660-ac1d-be7e4aa8a219}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. Scene\03. AreaE1">
+      <UniqueIdentifier>{ff3afbc3-3fd3-4ea2-8478-db8cfe9a2f4c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. Scene\04. AreaD2">
+      <UniqueIdentifier>{abe69a75-3835-47a4-9d20-07a2127d876e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. Scene\06. AreaD5">
+      <UniqueIdentifier>{091d009f-24e7-4dff-9af3-f1555fc191db}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. Scene\07. Scraper">
+      <UniqueIdentifier>{60315021-972f-489e-89fa-d987e515b5cc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Object\02. SeedMonster">
+      <UniqueIdentifier>{99bf8b7b-e4a1-472b-940e-b084e9f9e5c3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Object\02. SeedMonster\00. Helmet">
+      <UniqueIdentifier>{e647388c-37f5-435f-85fb-cf6bc0639486}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Object\03. Boss">
+      <UniqueIdentifier>{4422cd4f-a88c-45f2-8c17-9df24502f13f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Object\03. Boss\00. Hivok">
+      <UniqueIdentifier>{20125f1d-373a-40a0-bd42-8e75549f2cb5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Object\02. SeedMonster\01. Roid">
+      <UniqueIdentifier>{ee74dfca-7eda-4bc0-8a0b-e31da20821d2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Object\02. SeedMonster\02. Acrobat">
+      <UniqueIdentifier>{5cfe7eda-aed9-4759-93f9-3e754588232b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Effect\99. OXIntro">
+      <UniqueIdentifier>{1813e31f-eda2-4245-97cc-410a8b045482}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Effect\98. AquaField">
+      <UniqueIdentifier>{de4688b2-0aee-40f0-a76d-68a13ce46765}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Effect\10. Kunai">
+      <UniqueIdentifier>{57aa6ea1-03dc-40ed-9fee-1faf9ebfa15d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Effect\11. Suriken">
+      <UniqueIdentifier>{0869eaa9-c1c7-4e49-8036-4b1bc05670e8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Effect\01. Dash">
+      <UniqueIdentifier>{57799245-f2a2-491f-bf97-441ca9390d9a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Effect\02. DashDust">
+      <UniqueIdentifier>{03fa5a48-b756-485d-87e2-25dad2f60f74}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Effect\03. Charge">
+      <UniqueIdentifier>{4b3a89c3-0616-4f26-a320-86b2c155bac1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Effect\12. FireWall">
+      <UniqueIdentifier>{58d78dba-7de9-4ec1-9c66-7212188dc122}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Effect\04. OXSlash">
+      <UniqueIdentifier>{a2810ead-5b3c-4156-9606-a8acb200e039}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Effect\90. Destory">
+      <UniqueIdentifier>{69f2560c-ac9b-4e47-9612-6028c220d0eb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Effect\91. DefaultEnemyBullet">
+      <UniqueIdentifier>{91daea4a-5b5e-4239-a70d-b3e5d73ddbcc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. Scene\05. FistLeo_Stage">
+      <UniqueIdentifier>{ab72dbd1-a2cf-4da9-bce8-e90a6d951769}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Effect\60. HivokGuard">
+      <UniqueIdentifier>{ae4294cb-fc07-4888-a7c9-7d95ec709fd1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Effect\61. HivokLaser">
+      <UniqueIdentifier>{afbddacf-2920-47f4-8e26-5791f228cbec}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Object\03. Boss\01. FistLeo">
+      <UniqueIdentifier>{954013ce-817d-4f52-a03c-369dd5a574a8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Effect\62. LeoWall">
+      <UniqueIdentifier>{4328fb60-71ef-4610-b407-1066b8ebf33e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Object\03. Boss\02. Serpant">
+      <UniqueIdentifier>{e3eaf254-9907-4e53-a285-53523e345db6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Effect\70. Gong">
+      <UniqueIdentifier>{9cda6dca-e6e3-4cfd-9a49-8967d9894a2c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Effect\71. Gravity">
+      <UniqueIdentifier>{234d50e4-471b-4b65-b292-01cab1de1e9a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Effect\72. Wave">
+      <UniqueIdentifier>{95e93d2b-5967-4e05-81e0-1eec6a68197f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Effect\73. SerpantLaser">
+      <UniqueIdentifier>{fa5c82b2-ac0a-4b96-b52f-c902395fe2f6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Object\03. Boss\03. CopyX">
+      <UniqueIdentifier>{28daf664-e69f-424f-b288-61d644667c56}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Effect\63. HurricaneBall">
+      <UniqueIdentifier>{6dfb8ffc-7a6a-42e1-ad96-924044eb745b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Effect\64. PXCloak">
+      <UniqueIdentifier>{dec3778a-0c5e-40fc-bc32-a529a2d7354d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Effect\74. CopyXShot">
+      <UniqueIdentifier>{4d2f250a-c20f-4a22-af77-5a0563beb9a5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Effect\76. CopyXElect">
+      <UniqueIdentifier>{76d4234b-f1cb-4b01-a37b-928514509802}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Effect\77. CopyXFlame">
+      <UniqueIdentifier>{5780c359-bb23-4686-9030-a77761b06247}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Effect\75. CopyXDiagShot">
+      <UniqueIdentifier>{661b8414-5617-422e-82e8-8f58584185ed}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Effect\78. CopyXLaser">
+      <UniqueIdentifier>{2d3bb82d-6b70-44ae-bdb1-80a61682686c}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>99. Default\00. DefaultApplication</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>99. Default\99. DefaultResource</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>99. Default\99. DefaultResource</Filter>
+    </ClInclude>
+    <ClInclude Include="Client_RockMan_ZX.h">
+      <Filter>99. Default\99. DefaultResource</Filter>
+    </ClInclude>
+    <ClInclude Include="MainApplication.h">
+      <Filter>00. MainApplication</Filter>
+    </ClInclude>
+    <ClInclude Include="ObjectBase.h">
+      <Filter>01. Object\00. ObjectBase</Filter>
+    </ClInclude>
+    <ClInclude Include="Tile.h">
+      <Filter>03. Tile</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene.h">
+      <Filter>02. Scene\00. SceneBase</Filter>
+    </ClInclude>
+    <ClInclude Include="GraphicDeviceMgr.h">
+      <Filter>98. Client_Manager\01. GraphicDevice</Filter>
+    </ClInclude>
+    <ClInclude Include="Singleton.h">
+      <Filter>98. Client_Manager\00. Singleton</Filter>
+    </ClInclude>
+    <ClInclude Include="Texture.h">
+      <Filter>98. Client_Manager\02. Texture\00. TextureBase</Filter>
+    </ClInclude>
+    <ClInclude Include="SingleTexutre.h">
+      <Filter>98. Client_Manager\02. Texture\01. SingleTexture</Filter>
+    </ClInclude>
+    <ClInclude Include="MultiTexture.h">
+      <Filter>98. Client_Manager\02. Texture\02. MultiTexture</Filter>
+    </ClInclude>
+    <ClInclude Include="TextureMgr.h">
+      <Filter>98. Client_Manager\02. Texture</Filter>
+    </ClInclude>
+    <ClInclude Include="TimeMgr.h">
+      <Filter>98. Client_Manager\03. FPS\00. Time</Filter>
+    </ClInclude>
+    <ClInclude Include="FrameMgr.h">
+      <Filter>98. Client_Manager\03. FPS\01. Frame</Filter>
+    </ClInclude>
+    <ClInclude Include="KeyMgr.h">
+      <Filter>98. Client_Manager\04. Key</Filter>
+    </ClInclude>
+    <ClInclude Include="MgrInclude.h">
+      <Filter>98. Client_Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>01. Object\01. Player</Filter>
+    </ClInclude>
+    <ClInclude Include="ScrollMgr.h">
+      <Filter>98. Client_Manager\07. Scroll</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneLoading.h">
+      <Filter>02. Scene\01. Loading</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneMgr.h">
+      <Filter>98. Client_Manager\05. Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="BossOX.h">
+      <Filter>02. Scene\99. BossOX</Filter>
+    </ClInclude>
+    <ClInclude Include="ObjectMgr.h">
+      <Filter>98. Client_Manager\08. Object</Filter>
+    </ClInclude>
+    <ClInclude Include="CollisionMgr.h">
+      <Filter>98. Client_Manager\09. Collision</Filter>
+    </ClInclude>
+    <ClInclude Include="TileMgr.h">
+      <Filter>98. Client_Manager\10. Tile</Filter>
+    </ClInclude>
+    <ClInclude Include="TrainRoom.h">
+      <Filter>02. Scene\02. TrainingRoom</Filter>
+    </ClInclude>
+    <ClInclude Include="RandomMgr.h">
+      <Filter>98. Client_Manager\11. Random</Filter>
+    </ClInclude>
+    <ClInclude Include="Effect.h">
+      <Filter>04. Effect\00. EffectBase</Filter>
+    </ClInclude>
+    <ClInclude Include="AquaField.h">
+      <Filter>04. Effect\98. AquaField</Filter>
+    </ClInclude>
+    <ClInclude Include="EffectMgr.h">
+      <Filter>98. Client_Manager\12. EffectMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="InterfaceMgr.h">
+      <Filter>98. Client_Manager\13. InterfaceMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="UserInterface.h">
+      <Filter>05. UserInterface\00. UIBase</Filter>
+    </ClInclude>
+    <ClInclude Include="BioMetal.h">
+      <Filter>05. UserInterface\01. BioMetal</Filter>
+    </ClInclude>
+    <ClInclude Include="LifeBar.h">
+      <Filter>05. UserInterface\02. LifeBar</Filter>
+    </ClInclude>
+    <ClInclude Include="Kunai.h">
+      <Filter>04. Effect\10. Kunai</Filter>
+    </ClInclude>
+    <ClInclude Include="Suriken.h">
+      <Filter>04. Effect\11. Suriken</Filter>
+    </ClInclude>
+    <ClInclude Include="Charge.h">
+      <Filter>04. Effect\03. Charge</Filter>
+    </ClInclude>
+    <ClInclude Include="DashEffect.h">
+      <Filter>04. Effect\01. Dash</Filter>
+    </ClInclude>
+    <ClInclude Include="DashDust.h">
+      <Filter>04. Effect\02. DashDust</Filter>
+    </ClInclude>
+    <ClInclude Include="FireWall.h">
+      <Filter>04. Effect\12. FireWall</Filter>
+    </ClInclude>
+    <ClInclude Include="AreaE1.h">
+      <Filter>02. Scene\03. AreaE1</Filter>
+    </ClInclude>
+    <ClInclude Include="AreaD2.h">
+      <Filter>02. Scene\04. AreaD2</Filter>
+    </ClInclude>
+    <ClInclude Include="AreaD5.h">
+      <Filter>02. Scene\06. AreaD5</Filter>
+    </ClInclude>
+    <ClInclude Include="Scraper.h">
+      <Filter>02. Scene\07. Scraper</Filter>
+    </ClInclude>
+    <ClInclude Include="Hivok.h">
+      <Filter>01. Object\03. Boss\00. Hivok</Filter>
+    </ClInclude>
+    <ClInclude Include="SeedHelmet.h">
+      <Filter>01. Object\02. SeedMonster\00. Helmet</Filter>
+    </ClInclude>
+    <ClInclude Include="SeedRoid.h">
+      <Filter>01. Object\02. SeedMonster\01. Roid</Filter>
+    </ClInclude>
+    <ClInclude Include="SeedAcrobat.h">
+      <Filter>01. Object\02. SeedMonster\02. Acrobat</Filter>
+    </ClInclude>
+    <ClInclude Include="OXIntro.h">
+      <Filter>04. Effect\99. OXIntro</Filter>
+    </ClInclude>
+    <ClInclude Include="Destroy.h">
+      <Filter>04. Effect\90. Destory</Filter>
+    </ClInclude>
+    <ClInclude Include="OXSlash.h">
+      <Filter>04. Effect\04. OXSlash</Filter>
+    </ClInclude>
+    <ClInclude Include="EnemyBullet.h">
+      <Filter>04. Effect\91. DefaultEnemyBullet</Filter>
+    </ClInclude>
+    <ClInclude Include="FistLeo_Stage.h">
+      <Filter>02. Scene\05. FistLeo_Stage</Filter>
+    </ClInclude>
+    <ClInclude Include="HivokGuard.h">
+      <Filter>04. Effect\60. HivokGuard</Filter>
+    </ClInclude>
+    <ClInclude Include="HivokLaser.h">
+      <Filter>04. Effect\61. HivokLaser</Filter>
+    </ClInclude>
+    <ClInclude Include="FistLeo.h">
+      <Filter>01. Object\03. Boss\01. FistLeo</Filter>
+    </ClInclude>
+    <ClInclude Include="LeoWall.h">
+      <Filter>04. Effect\62. LeoWall</Filter>
+    </ClInclude>
+    <ClInclude Include="Serpant.h">
+      <Filter>01. Object\03. Boss\02. Serpant</Filter>
+    </ClInclude>
+    <ClInclude Include="Gong.h">
+      <Filter>04. Effect\70. Gong</Filter>
+    </ClInclude>
+    <ClInclude Include="GravityBall.h">
+      <Filter>04. Effect\71. Gravity</Filter>
+    </ClInclude>
+    <ClInclude Include="SerpantWave.h">
+      <Filter>04. Effect\72. Wave</Filter>
+    </ClInclude>
+    <ClInclude Include="SerpantLaser.h">
+      <Filter>04. Effect\73. SerpantLaser</Filter>
+    </ClInclude>
+    <ClInclude Include="CopyX.h">
+      <Filter>01. Object\03. Boss\03. CopyX</Filter>
+    </ClInclude>
+    <ClInclude Include="SoundMgr.h">
+      <Filter>98. Client_Manager\06. Sound</Filter>
+    </ClInclude>
+    <ClInclude Include="HurricaneBall.h">
+      <Filter>04. Effect\63. HurricaneBall</Filter>
+    </ClInclude>
+    <ClInclude Include="PXCloak.h">
+      <Filter>04. Effect\64. PXCloak</Filter>
+    </ClInclude>
+    <ClInclude Include="XShot.h">
+      <Filter>04. Effect\74. CopyXShot</Filter>
+    </ClInclude>
+    <ClInclude Include="XDiagShot.h">
+      <Filter>04. Effect\75. CopyXDiagShot</Filter>
+    </ClInclude>
+    <ClInclude Include="XElect.h">
+      <Filter>04. Effect\76. CopyXElect</Filter>
+    </ClInclude>
+    <ClInclude Include="XFlaem.h">
+      <Filter>04. Effect\77. CopyXFlame</Filter>
+    </ClInclude>
+    <ClInclude Include="XLaser.h">
+      <Filter>04. Effect\78. CopyXLaser</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Client_RockMan_ZX.cpp">
+      <Filter>99. Default\00. DefaultApplication</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>99. Default\99. DefaultResource</Filter>
+    </ClCompile>
+    <ClCompile Include="MainApplication.cpp">
+      <Filter>00. MainApplication</Filter>
+    </ClCompile>
+    <ClCompile Include="ObjectBase.cpp">
+      <Filter>01. Object\00. ObjectBase</Filter>
+    </ClCompile>
+    <ClCompile Include="Tile.cpp">
+      <Filter>03. Tile</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene.cpp">
+      <Filter>02. Scene\00. SceneBase</Filter>
+    </ClCompile>
+    <ClCompile Include="GraphicDeviceMgr.cpp">
+      <Filter>98. Client_Manager\01. GraphicDevice</Filter>
+    </ClCompile>
+    <ClCompile Include="Texture.cpp">
+      <Filter>98. Client_Manager\02. Texture\00. TextureBase</Filter>
+    </ClCompile>
+    <ClCompile Include="SingleTexutre.cpp">
+      <Filter>98. Client_Manager\02. Texture\01. SingleTexture</Filter>
+    </ClCompile>
+    <ClCompile Include="MultiTexture.cpp">
+      <Filter>98. Client_Manager\02. Texture\02. MultiTexture</Filter>
+    </ClCompile>
+    <ClCompile Include="TextureMgr.cpp">
+      <Filter>98. Client_Manager\02. Texture</Filter>
+    </ClCompile>
+    <ClCompile Include="TimeMgr.cpp">
+      <Filter>98. Client_Manager\03. FPS\00. Time</Filter>
+    </ClCompile>
+    <ClCompile Include="FrameMgr.cpp">
+      <Filter>98. Client_Manager\03. FPS\01. Frame</Filter>
+    </ClCompile>
+    <ClCompile Include="KeyMgr.cpp">
+      <Filter>98. Client_Manager\04. Key</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>01. Object\01. Player</Filter>
+    </ClCompile>
+    <ClCompile Include="ScrollMgr.cpp">
+      <Filter>98. Client_Manager\07. Scroll</Filter>
+    </ClCompile>
+    <ClCompile Include="SceneLoading.cpp">
+      <Filter>02. Scene\01. Loading</Filter>
+    </ClCompile>
+    <ClCompile Include="SceneMgr.cpp">
+      <Filter>98. Client_Manager\05. Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="BossOX.cpp">
+      <Filter>02. Scene\99. BossOX</Filter>
+    </ClCompile>
+    <ClCompile Include="ObjectMgr.cpp">
+      <Filter>98. Client_Manager\08. Object</Filter>
+    </ClCompile>
+    <ClCompile Include="CollisionMgr.cpp">
+      <Filter>98. Client_Manager\09. Collision</Filter>
+    </ClCompile>
+    <ClCompile Include="TileMgr.cpp">
+      <Filter>98. Client_Manager\10. Tile</Filter>
+    </ClCompile>
+    <ClCompile Include="TrainRoom.cpp">
+      <Filter>02. Scene\02. TrainingRoom</Filter>
+    </ClCompile>
+    <ClCompile Include="RandomMgr.cpp">
+      <Filter>98. Client_Manager\11. Random</Filter>
+    </ClCompile>
+    <ClCompile Include="Effect.cpp">
+      <Filter>04. Effect\00. EffectBase</Filter>
+    </ClCompile>
+    <ClCompile Include="AquaField.cpp">
+      <Filter>04. Effect\98. AquaField</Filter>
+    </ClCompile>
+    <ClCompile Include="EffectMgr.cpp">
+      <Filter>98. Client_Manager\12. EffectMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="InterfaceMgr.cpp">
+      <Filter>98. Client_Manager\13. InterfaceMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="UserInterface.cpp">
+      <Filter>05. UserInterface\00. UIBase</Filter>
+    </ClCompile>
+    <ClCompile Include="BioMetal.cpp">
+      <Filter>05. UserInterface\01. BioMetal</Filter>
+    </ClCompile>
+    <ClCompile Include="LifeBar.cpp">
+      <Filter>05. UserInterface\02. LifeBar</Filter>
+    </ClCompile>
+    <ClCompile Include="Kunai.cpp">
+      <Filter>04. Effect\10. Kunai</Filter>
+    </ClCompile>
+    <ClCompile Include="Suriken.cpp">
+      <Filter>04. Effect\11. Suriken</Filter>
+    </ClCompile>
+    <ClCompile Include="Charge.cpp">
+      <Filter>04. Effect\03. Charge</Filter>
+    </ClCompile>
+    <ClCompile Include="DashEffect.cpp">
+      <Filter>04. Effect\01. Dash</Filter>
+    </ClCompile>
+    <ClCompile Include="DashDust.cpp">
+      <Filter>04. Effect\02. DashDust</Filter>
+    </ClCompile>
+    <ClCompile Include="FireWall.cpp">
+      <Filter>04. Effect\12. FireWall</Filter>
+    </ClCompile>
+    <ClCompile Include="AreaE1.cpp">
+      <Filter>02. Scene\03. AreaE1</Filter>
+    </ClCompile>
+    <ClCompile Include="AreaD2.cpp">
+      <Filter>02. Scene\04. AreaD2</Filter>
+    </ClCompile>
+    <ClCompile Include="AreaD5.cpp">
+      <Filter>02. Scene\06. AreaD5</Filter>
+    </ClCompile>
+    <ClCompile Include="Scraper.cpp">
+      <Filter>02. Scene\07. Scraper</Filter>
+    </ClCompile>
+    <ClCompile Include="Hivok.cpp">
+      <Filter>01. Object\03. Boss\00. Hivok</Filter>
+    </ClCompile>
+    <ClCompile Include="SeedHelmet.cpp">
+      <Filter>01. Object\02. SeedMonster\00. Helmet</Filter>
+    </ClCompile>
+    <ClCompile Include="SeedRoid.cpp">
+      <Filter>01. Object\02. SeedMonster\01. Roid</Filter>
+    </ClCompile>
+    <ClCompile Include="SeedAcrobat.cpp">
+      <Filter>01. Object\02. SeedMonster\02. Acrobat</Filter>
+    </ClCompile>
+    <ClCompile Include="OXIntro.cpp">
+      <Filter>04. Effect\99. OXIntro</Filter>
+    </ClCompile>
+    <ClCompile Include="Destroy.cpp">
+      <Filter>04. Effect\90. Destory</Filter>
+    </ClCompile>
+    <ClCompile Include="OXSlash.cpp">
+      <Filter>04. Effect\04. OXSlash</Filter>
+    </ClCompile>
+    <ClCompile Include="EnemyBullet.cpp">
+      <Filter>04. Effect\91. DefaultEnemyBullet</Filter>
+    </ClCompile>
+    <ClCompile Include="FistLeo_Stage.cpp">
+      <Filter>02. Scene\05. FistLeo_Stage</Filter>
+    </ClCompile>
+    <ClCompile Include="HivokGuard.cpp">
+      <Filter>04. Effect\60. HivokGuard</Filter>
+    </ClCompile>
+    <ClCompile Include="HivokLaser.cpp">
+      <Filter>04. Effect\61. HivokLaser</Filter>
+    </ClCompile>
+    <ClCompile Include="FistLeo.cpp">
+      <Filter>01. Object\03. Boss\01. FistLeo</Filter>
+    </ClCompile>
+    <ClCompile Include="LeoWall.cpp">
+      <Filter>04. Effect\62. LeoWall</Filter>
+    </ClCompile>
+    <ClCompile Include="Serpant.cpp">
+      <Filter>01. Object\03. Boss\02. Serpant</Filter>
+    </ClCompile>
+    <ClCompile Include="Gong.cpp">
+      <Filter>04. Effect\70. Gong</Filter>
+    </ClCompile>
+    <ClCompile Include="GravityBall.cpp">
+      <Filter>04. Effect\71. Gravity</Filter>
+    </ClCompile>
+    <ClCompile Include="SerpantWave.cpp">
+      <Filter>04. Effect\72. Wave</Filter>
+    </ClCompile>
+    <ClCompile Include="SerpantLaser.cpp">
+      <Filter>04. Effect\73. SerpantLaser</Filter>
+    </ClCompile>
+    <ClCompile Include="CopyX.cpp">
+      <Filter>01. Object\03. Boss\03. CopyX</Filter>
+    </ClCompile>
+    <ClCompile Include="SoundMgr.cpp">
+      <Filter>98. Client_Manager\06. Sound</Filter>
+    </ClCompile>
+    <ClCompile Include="HurricaneBall.cpp">
+      <Filter>04. Effect\63. HurricaneBall</Filter>
+    </ClCompile>
+    <ClCompile Include="PXCloak.cpp">
+      <Filter>04. Effect\64. PXCloak</Filter>
+    </ClCompile>
+    <ClCompile Include="XShot.cpp">
+      <Filter>04. Effect\74. CopyXShot</Filter>
+    </ClCompile>
+    <ClCompile Include="XDiagShot.cpp">
+      <Filter>04. Effect\75. CopyXDiagShot</Filter>
+    </ClCompile>
+    <ClCompile Include="XElect.cpp">
+      <Filter>04. Effect\76. CopyXElect</Filter>
+    </ClCompile>
+    <ClCompile Include="XFlaem.cpp">
+      <Filter>04. Effect\77. CopyXFlame</Filter>
+    </ClCompile>
+    <ClCompile Include="XLaser.cpp">
+      <Filter>04. Effect\78. CopyXLaser</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Client_RockMan_ZX.ico">
+      <Filter>99. Default\99. DefaultResource</Filter>
+    </Image>
+    <Image Include="small.ico">
+      <Filter>99. Default\99. DefaultResource</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Client_RockMan_ZX.rc">
+      <Filter>99. Default\99. DefaultResource</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt">
+      <Filter>99. Default\99. DefaultResource</Filter>
+    </Text>
+  </ItemGroup>
+</Project>
